@@ -1,4 +1,12 @@
 #!/bin/bash
+#!/bin/bash
+# ------------------------------------------------------------------------------
+# Script: Code_sec_score.sh
+# Author& Owner : Rajesh Kaushal
+# Description: This script automates the process of code review, documentation,
+#              and security analysis for changed files in a Git repository.
+#              It uses the Ollama LLM model for generating insights and ratings.
+# ------------------------------------------------------------------------------
 set -e
 
 REPO_URL="https://github.com/Kaushal604/jpetstore-64.git"
