@@ -10,12 +10,12 @@ The script is designed to be executed via the **HCL DevOps Deploy Tool** as part
 
 **Ollama LLM Model API: A local Ollama API instance running at http://10.83.120.21:11434/.**
 
-****Git: Installed on the agent running the script.**
+**Git: Installed on the agent running the script.**
 
-**jq:** Command-line tool for processing JSON (for parsing Ollama API responses).
+**jq: Command-line tool for processing JSON (for parsing Ollama API responses).**
 ===============================================================================================
 
-**The Code_sec.sh script performs the following tasks:**
+**The Code_sec_score.sh script performs the following tasks:**
 
 **Clones the repository:** Fetches the Git repository using the specified REPO_URL.
 
