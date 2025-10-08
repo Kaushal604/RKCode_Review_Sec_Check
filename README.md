@@ -33,9 +33,9 @@ The script is designed to be executed via the **HCL DevOps Deploy Tool** as part
 **Outputs the results:** Stores the review, documentation, and security analysis in separate text files.
 
 **File Structure**
-.
-├── Code_sec_score.sh          # The main script for security review and analysis
-├── ai_review_results.txt      # Code review output
-├── ai_docs_results.txt        # Code documentation output
-├── ai_security_results.txt    # Security analysis output
-└── changed_files.txt          # List of changed files between commits
+
+Code_sec_score.sh          # The main script for security review and analysis
+ai_review_results.txt      # Code review output
+ai_docs_results.txt        # Code documentation output
+ai_security_results.txt    # Security analysis output
+changed_files.txt          # List of changed files between commits
