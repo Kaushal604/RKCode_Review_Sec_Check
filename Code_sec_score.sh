@@ -11,7 +11,7 @@ set -e
 
 REPO_URL="https://github.com/Kaushal604/jpetstore-64.git"
 REPO_DIR="jpetstore-64"
-OLLAMA_API="http://10.83.120.21:11434/api/generate" 
+OLLAMA_API="http://10.xx.xx.xx:11434/api/generate" 
 MODEL="codellama"
 REVIEW_OUTPUT="ai_review_results.txt"
 DOCS_OUTPUT="ai_docs_results.txt"
