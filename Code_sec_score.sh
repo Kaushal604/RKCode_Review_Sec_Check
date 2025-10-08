@@ -1,5 +1,4 @@
 #!/bin/bash
-#!/bin/bash
 # ------------------------------------------------------------------------------
 # Script: Code_sec_score.sh
 # Author& Owner : Rajesh Kaushal
