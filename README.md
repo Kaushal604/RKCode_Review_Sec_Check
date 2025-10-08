@@ -2,11 +2,11 @@
 
 This solution automates code review and security analysis for software repositories using the Ollama LLM model. The script fetches code from a Git repository, analyzes it for security vulnerabilities, provides suggestions for code improvements, and documents the functionality using Ollama's AI model. The results are categorized into High, Moderate, or Low risk based on security severity.
 
-The script is designed to be executed via the **HCL DevOps Deploy Tool** as part of a CI/CD pipeline.
+The script is designed to be executed via the **DevOps Deploy Tool** as part of a CI/CD pipeline.
 
 **Prerequisites**
 
-**HCL DevOps Deploy Tool** (to orchestrate and automate deployment)
+**DevOps Deploy Tool** (to orchestrate and automate deployment)
 
 **Ollama LLM Model API: A local Ollama API instance running at http://10.xx.xx.xx:11434/.**
 
