@@ -39,3 +39,4 @@ ai_review_results.txt      # Code review output
 ai_docs_results.txt        # Code documentation output
 ai_security_results.txt    # Security analysis output
 changed_files.txt          # List of changed files between commits
+
