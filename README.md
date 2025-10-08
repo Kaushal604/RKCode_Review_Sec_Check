@@ -12,7 +12,8 @@ The script is designed to be executed via the **HCL DevOps Deploy Tool** as part
 
 **Git: Installed on the agent running the script.**
 
-**jq: Command-line tool for processing JSON (for parsing Ollama API responses).**
+**jq:** Command-line tool for processing JSON (for parsing Ollama API responses).
+
 ===============================================================================================
 
 **The Code_sec_score.sh script performs the following tasks:**
